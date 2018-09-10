@@ -10,3 +10,4 @@ This repository include subjects in HTML4
 * Headers
 * Photos
 * Image map
+* Links
