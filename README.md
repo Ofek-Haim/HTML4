@@ -9,3 +9,4 @@ This repository include subjects in HTML4
 * Paragraphs and line breaks
 * Headers
 * Photos
+* Image map
