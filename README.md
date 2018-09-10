@@ -6,3 +6,4 @@ This repository include subjects in HTML4
 ## subjects
 * Basic introduction English
 * Basic introduction Hebrew
+* Paragraphs and line breaks
