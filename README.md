@@ -12,3 +12,4 @@ This repository include subjects in HTML4
 * Image map
 * Links
 * Frames X3
+* Hebrew text
