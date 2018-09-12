@@ -16,3 +16,4 @@ This repository include subjects in HTML4
 * Frames X3
 * Forms
 * Hebrew text
+* Special characters
