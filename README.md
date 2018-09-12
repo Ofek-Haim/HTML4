@@ -11,5 +11,7 @@ This repository include subjects in HTML4
 * Photos
 * Image map
 * Links
+* Lists
+* Tables
 * Frames X3
 * Hebrew text
